@@ -1,2 +1,2 @@
-# platfromer
+# Platfromer
 simonsongcool3
